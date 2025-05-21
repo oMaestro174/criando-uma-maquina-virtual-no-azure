@@ -1,0 +1,1 @@
+# criando-uma-maquina-virtual-no-azure
